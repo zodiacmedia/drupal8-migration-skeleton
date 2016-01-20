@@ -31,4 +31,8 @@ Once complete, copy the database.sql file to the _database folder of the Drupal 
 
 ### Step 3 - Setup Vagrant
 
-Next, you will need to go on the command line to the project root and then the vagrant folder (make sure that you have installed vagrant before doing this). Enter the following command,
+Next, you will need to go on the command line to the project root and then the vagrant folder (make sure that you have installed vagrant before doing this). Run the following command,
+
+```
+sudo vagrant install
+```
